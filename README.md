@@ -180,5 +180,6 @@ Set the `PREFIX` environment variable to install into a different location.
 ---
 
 Copyright © 2014 Sam Stephenson <<sstephenson@gmail.com>>
+Current fork maintained by Misty De Méo.
 
 Freely distributable under the [MIT license](LICENSE)
